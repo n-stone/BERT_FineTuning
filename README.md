@@ -4,12 +4,12 @@ This repository contains a trainer for sentiment analysis using BERT (Bidirectio
 
 ## Requirements
 
-- Python 3.6 or above
-- torch==1.9.0
-- transformers==4.8.2
-- pandas==1.3.0
-- tqdm==4.61.2
-- scikit-learn==0.24.2
+- Python 3.9
+- torch==2.0.1
+- transformers==4.30.0
+- pandas==2.0.2
+- tqdm==4.65.0
+- scikit-learn==1.2.2
 
 ## Usage
 
